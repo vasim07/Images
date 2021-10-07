@@ -2,6 +2,8 @@
 
 <img src="https://i.ibb.co/99mqkmd/On-Git-Link.png" alt="On-Git-Link" border="0">
 
+Image Source:- [Zellis Press Release](https://www.zellis.com/resources/press-and-media/zellis-announces-hcm-cloud-3-0/)
+
 <img src="https://i.ibb.co/c6sY7Lx/JR-Thanks.png" alt="JR-Thanks" border="0">
 
 Jaspal Randhawa - Formaer Director of Product Management
